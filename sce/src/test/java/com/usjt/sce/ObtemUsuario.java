@@ -1,6 +1,6 @@
-package com.fatec.sce;
+package com.usjt.sce;
 
-import com.fatec.sce.model.Usuario;
+import com.usjt.sce.model.Usuario;
 
 public class ObtemUsuario {
 	public static Usuario comDadosValidos() {

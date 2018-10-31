@@ -1,9 +1,10 @@
-package com.fatec.sce;
+package com.usjt.sce;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import com.fatec.sce.model.ConfiguraDB;
-import com.fatec.sce.model.FabricaDeConexoes;
+
+import com.usjt.sce.model.ConfiguraDB;
+import com.usjt.sce.model.FabricaDeConexoes;
 
 public class TestaConexaoComDB {
 	/**

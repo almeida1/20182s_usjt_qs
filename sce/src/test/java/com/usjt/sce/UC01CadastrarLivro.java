@@ -1,10 +1,10 @@
-package com.fatec.sce;
+package com.usjt.sce;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.fatec.sce.model.Livro;
+import com.usjt.sce.model.Livro;
 
 public class UC01CadastrarLivro {
 

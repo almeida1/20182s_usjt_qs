@@ -1,4 +1,4 @@
-package com.fatec.sce.model;
+package com.usjt.sce.model;
 
 public class Usuario {
 	private String ra;

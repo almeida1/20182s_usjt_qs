@@ -1,4 +1,4 @@
-package com.fatec.sce;
+package com.usjt.sce;
 
 import static org.junit.Assert.*;
 

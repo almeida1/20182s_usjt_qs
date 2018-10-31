@@ -1,6 +1,6 @@
-package com.fatec.sce;
+package com.usjt.sce;
 
-import com.fatec.sce.model.Livro;
+import com.usjt.sce.model.Livro;
 
 public class ObtemLivro {
 	public static Livro comDadosValidos() {
